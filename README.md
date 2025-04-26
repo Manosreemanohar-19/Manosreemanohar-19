@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/htRRXcQg/004f31cc-fb99-4bb6-a657-7f4b915ce668.png" alt="Space Coder Banner" width="100%" />
+  <img src="https://i.postimg.cc/P5z648K3/Chat-GPT-Image-Apr-27-2025-12-40-37-AM.png" alt="Space Coder Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I am Manosree Kallepalli 👋</h1>
