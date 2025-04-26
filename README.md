@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/P5z648K3/Chat-GPT-Image-Apr-27-2025-12-40-37-AM.png" alt="Manosree Banner" style="width:100%; height:auto;" />
+  <img src="https://i.postimg.cc/B6bVYQwr/483391434022201.gif" alt="Manosree Banner" style="width:100%; height:auto;" />
 </p>
 
 <h1 align="center">Hi, I am Manosree Kallepalli 👋</h1>
